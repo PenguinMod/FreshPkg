@@ -1,1 +1,1 @@
-alert({pkgname})
+alert('{pkgname}')
